@@ -1,0 +1,39 @@
+body{
+    background-color: cornflowerblue;
+}
+
+h1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    position: relative;
+    top: 100px;
+    left: 650px;
+}
+
+#image{
+    position: relative;
+    top: 120px;
+    left: 620px;
+}
+
+button{
+    position: relative;
+    top: 170px;
+    left: 630px;
+    font-size: 18px;
+    width: 120px;
+    height: 40px;
+    outline: none;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: coral;
+    border: 1px solid #fff;
+    color: #fff;
+}
